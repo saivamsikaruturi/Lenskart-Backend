@@ -1,0 +1,6 @@
+projectKey=lenskart
+serverUrl=http://localhost:9000
+serverVersion=8.6.1.40680
+dashboardUrl=http://localhost:9000/dashboard?id=lenskart
+ceTaskId=AXeGD5ELpVfHwz5yvnuj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXeGD5ELpVfHwz5yvnuj
